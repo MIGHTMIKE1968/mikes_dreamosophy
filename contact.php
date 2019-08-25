@@ -51,6 +51,10 @@ if ($_POST['submit']) {
 	<link rel="stylesheet" type="text/css" href="css/contact.css">
 	<link href="https://fonts.googleapis.com/css?family=Cabin" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Roboto+Slab" rel="stylesheet">
+    
+    <script type="text/javascript" src="//deloplen.com/apu.php?zoneid=2784140" async data-cfasync="false"></script>
+    
+    <script type="text/javascript" src="https://load.fomo.com/ads/load.js?id=TWYSK4IvwPggWzGP7Y0_3w" async></script>
 	
 </head>
 
@@ -76,11 +80,11 @@ if ($_POST['submit']) {
 					<li class="dropdown menu">
           		    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">BLOGS<span class="caret"></span></a>
           			<ul class="dropdown-menu">
-            			<li><a href="remember.html">How to Remember Dreams</a></li>
+            			<li><a href="remember2.html">How to Remember Dreams</a></li>
                         <li><a href="journal.html">How to Use a Dream Journal</a></li>
           			</ul>
         			</li>
-					<li class="menu"><a href="shop.html">SHOP</a></li>
+					<li class="menu"><a href="shop2.html">SHOP</a></li>
 				</ul>
 				
 				<ul class="nav navbar-nav navbar-right">
@@ -93,20 +97,6 @@ if ($_POST['submit']) {
 		
 	</nav>
     
-    <div class="ad">
-	<!--Chitika -->
-	<script type="text/javascript">
-    ( function() {
-        if (window.CHITIKA === undefined) { window.CHITIKA = { 'units' : [] }; };
-        var unit = {"calltype":"async[2]","publisher":"mightymike105","width":728,"height":90,"sid":"Chitika Default"};
-        var placement_id = window.CHITIKA.units.length;
-        window.CHITIKA.units.push(unit);
-        document.write('<div id="chitikaAdBlock-' + placement_id + '"></div>');
-        }());
-    </script>
-    <script type="text/javascript" src="//cdn.chitika.net/getads.js" async></script>
-	</div>
-		
 	<section id="contact">
 		<div class="container">
 		
@@ -167,7 +157,8 @@ if ($_POST['submit']) {
 		
 		<h4><a href="https://www.facebook.com/mikesdreamosophy/"><img class="social2" src="images/facebook.png" width="50px" height="auto" alt="facebook"/></a>
 	
-		<a href="https://twitter.com/mikedreamosophy/"><img class="social2" src="images/twitter.png" width="50px" height="auto" alt="twitter"/></a></h4>
+		<a href="https://twitter.com/mikedreamosophy/"><img class="social2" src="images/twitter.png" width="50px" height="auto" alt="twitter"/></a>
+        </h4>
 	
 	<h5>© Copyright 2018, Sonicpress LLC - © Copyright 2018 Limnosophy LLC, used with permission. All Rights Reserved.</h5><br>
 		<h6 class="sonic">Web Design by Sonicpress</h6><br>
